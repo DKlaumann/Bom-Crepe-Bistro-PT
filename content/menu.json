@@ -1,0 +1,517 @@
+[
+  {
+    "title": "Galettes",
+    "id": "galettes",
+    "english": "Savoury buckwheat galettes",
+    "items": [
+      {
+        "pt": {
+          "name": "Mista",
+          "description": "Fiambre e queijo Emmental"
+        },
+        "en": {
+          "name": "Ham & Emmental",
+          "description": "Ham and Emmental cheese"
+        },
+        "price": "8,00 €"
+      },
+      {
+        "pt": {
+          "name": "Salmão Fumado",
+          "description": "Queijo creme, salmão fumado e rúcula"
+        },
+        "en": {
+          "name": "Smoked Salmon",
+          "description": "Cream cheese, smoked salmon and rocket"
+        },
+        "price": "11,50 €"
+      },
+      {
+        "pt": {
+          "name": "Cogumelos Salteados",
+          "description": "Cogumelos salteados e queijo Emmental"
+        },
+        "en": {
+          "name": "Sautéed Mushrooms",
+          "description": "Sautéed mushrooms and Emmental cheese"
+        },
+        "price": "9,00 €"
+      },
+      {
+        "pt": {
+          "name": "Mozzarella & Pesto",
+          "description": "Mozzarella fresca, tomate cherry, pesto e rúcula"
+        },
+        "en": {
+          "name": "Mozzarella & Pesto",
+          "description": "Fresh mozzarella, cherry tomatoes, pesto and rocket"
+        },
+        "price": "9,00 €"
+      },
+      {
+        "pt": {
+          "name": "Queijo de Cabra",
+          "description": "Queijo de cabra, mel e nozes"
+        },
+        "en": {
+          "name": "Goat's Cheese",
+          "description": "Goat's cheese, honey and walnuts"
+        },
+        "price": "10,50 €"
+      }
+    ],
+    "extras": [
+      {
+        "pt": {
+          "name": "Ovo",
+          "description": ""
+        },
+        "en": {
+          "name": "Egg",
+          "description": ""
+        },
+        "price": "1,00 €"
+      },
+      {
+        "pt": {
+          "name": "Fiambre",
+          "description": ""
+        },
+        "en": {
+          "name": "Ham",
+          "description": ""
+        },
+        "price": "2,00 €"
+      },
+      {
+        "pt": {
+          "name": "Emmental",
+          "description": ""
+        },
+        "en": {
+          "name": "Emmental",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Mozzarella",
+          "description": ""
+        },
+        "en": {
+          "name": "Mozzarella",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Salmão fumado",
+          "description": ""
+        },
+        "en": {
+          "name": "Smoked salmon",
+          "description": ""
+        },
+        "price": "2,50 €"
+      },
+      {
+        "pt": {
+          "name": "Rúcula",
+          "description": ""
+        },
+        "en": {
+          "name": "Rocket",
+          "description": ""
+        },
+        "price": "1,00 €"
+      },
+      {
+        "pt": {
+          "name": "Tomate cherry",
+          "description": ""
+        },
+        "en": {
+          "name": "Cherry tomatoes",
+          "description": ""
+        },
+        "price": "1,00 €"
+      }
+    ]
+  },
+  {
+    "title": "Crepes doces",
+    "id": "doces",
+    "english": "Sweet crêpes",
+    "items": [
+      {
+        "pt": {
+          "name": "Simples",
+          "description": ""
+        },
+        "en": {
+          "name": "Plain",
+          "description": ""
+        },
+        "price": "4,00 €"
+      },
+      {
+        "pt": {
+          "name": "Manteiga e Açúcar",
+          "description": ""
+        },
+        "en": {
+          "name": "Butter & Sugar",
+          "description": ""
+        },
+        "price": "5,00 €"
+      },
+      {
+        "pt": {
+          "name": "Manteiga, Açúcar e Limão",
+          "description": ""
+        },
+        "en": {
+          "name": "Butter, Sugar & Lemon",
+          "description": ""
+        },
+        "price": "5,00 €"
+      },
+      {
+        "pt": {
+          "name": "Nutella e Banana",
+          "description": ""
+        },
+        "en": {
+          "name": "Nutella & Banana",
+          "description": ""
+        },
+        "price": "6,50 €"
+      },
+      {
+        "pt": {
+          "name": "Creme de Pistáchio e Pistáchios",
+          "description": ""
+        },
+        "en": {
+          "name": "Pistachio Cream & Pistachios",
+          "description": ""
+        },
+        "price": "7,00 €"
+      },
+      {
+        "pt": {
+          "name": "Caramelo Salgado e Nozes",
+          "description": ""
+        },
+        "en": {
+          "name": "Salted Caramel & Walnuts",
+          "description": ""
+        },
+        "price": "6,50 €"
+      }
+    ],
+    "extras": [
+      {
+        "pt": {
+          "name": "Bola de gelado",
+          "description": ""
+        },
+        "en": {
+          "name": "Scoop of ice cream",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Nutella",
+          "description": ""
+        },
+        "en": {
+          "name": "Nutella",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Mel",
+          "description": ""
+        },
+        "en": {
+          "name": "Honey",
+          "description": ""
+        },
+        "price": "1,00 €"
+      },
+      {
+        "pt": {
+          "name": "Compota",
+          "description": ""
+        },
+        "en": {
+          "name": "Jam",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Chocolate",
+          "description": ""
+        },
+        "en": {
+          "name": "Chocolate",
+          "description": ""
+        },
+        "price": "1,00 €"
+      },
+      {
+        "pt": {
+          "name": "Banana",
+          "description": ""
+        },
+        "en": {
+          "name": "Banana",
+          "description": ""
+        },
+        "price": "1,00 €"
+      },
+      {
+        "pt": {
+          "name": "Pistáchios picados",
+          "description": ""
+        },
+        "en": {
+          "name": "Chopped pistachios",
+          "description": ""
+        },
+        "price": "2,00 €"
+      },
+      {
+        "pt": {
+          "name": "Nozes picadas",
+          "description": ""
+        },
+        "en": {
+          "name": "Chopped walnuts",
+          "description": ""
+        },
+        "price": "1,50 €"
+      }
+    ]
+  },
+  {
+    "title": "Saladas e sopa",
+    "id": "saladas",
+    "english": "Salads & soup",
+    "items": [
+      {
+        "pt": {
+          "name": "Salada da Casa",
+          "description": "Mistura de alfaces, tomate cherry, cebola roxa, azeite virgem extra e creme de vinagre balsâmico"
+        },
+        "en": {
+          "name": "House Salad",
+          "description": "Mixed lettuce, cherry tomatoes, red onion, extra virgin olive oil and balsamic glaze"
+        },
+        "price": "4,00 €"
+      },
+      {
+        "pt": {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate cherry, pesto, rúcula, azeite virgem extra e creme de vinagre balsâmico"
+        },
+        "en": {
+          "name": "Caprese",
+          "description": "Fresh mozzarella, cherry tomatoes, pesto, rocket, extra virgin olive oil and balsamic glaze"
+        },
+        "price": "8,50 €"
+      },
+      {
+        "pt": {
+          "name": "Salada de Salmão Fumado",
+          "description": "Salmão fumado, queijo creme, tomate cherry, mistura de alfaces, rúcula e azeite virgem extra"
+        },
+        "en": {
+          "name": "Smoked Salmon Salad",
+          "description": "Smoked salmon, cream cheese, cherry tomatoes, mixed lettuce, rocket and extra virgin olive oil"
+        },
+        "price": "11,00 €"
+      },
+      {
+        "pt": {
+          "name": "Sopa do Dia",
+          "description": ""
+        },
+        "en": {
+          "name": "Soup of the Day",
+          "description": ""
+        },
+        "price": "3,50 €"
+      }
+    ],
+    "extras": []
+  },
+  {
+    "title": "Bebidas quentes",
+    "id": "quentes",
+    "english": "Hot drinks",
+    "items": [
+      {
+        "pt": {
+          "name": "Café",
+          "description": ""
+        },
+        "en": {
+          "name": "Espresso",
+          "description": ""
+        },
+        "price": "1,20 €"
+      },
+      {
+        "pt": {
+          "name": "Abatanado",
+          "description": ""
+        },
+        "en": {
+          "name": "Abatanado (long coffee)",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Meia de leite",
+          "description": ""
+        },
+        "en": {
+          "name": "Coffee with milk",
+          "description": ""
+        },
+        "price": "1,80 €"
+      },
+      {
+        "pt": {
+          "name": "Cappuccino",
+          "description": ""
+        },
+        "en": {
+          "name": "Cappuccino",
+          "description": ""
+        },
+        "price": "2,50 €"
+      },
+      {
+        "pt": {
+          "name": "Chá Tetley",
+          "description": ""
+        },
+        "en": {
+          "name": "Tetley tea",
+          "description": ""
+        },
+        "price": "2,00 €"
+      },
+      {
+        "pt": {
+          "name": "Chocolate quente",
+          "description": ""
+        },
+        "en": {
+          "name": "Hot chocolate",
+          "description": ""
+        },
+        "price": "3,50 €"
+      }
+    ],
+    "extras": []
+  },
+  {
+    "title": "Bebidas frias",
+    "id": "frias",
+    "english": "Cold drinks",
+    "items": [
+      {
+        "pt": {
+          "name": "Coca-Cola / Coca-Cola Zero",
+          "description": ""
+        },
+        "en": {
+          "name": "Coca-Cola / Coca-Cola Zero",
+          "description": ""
+        },
+        "price": "2,20 €"
+      },
+      {
+        "pt": {
+          "name": "Fuze Tea",
+          "description": ""
+        },
+        "en": {
+          "name": "Fuze Tea",
+          "description": ""
+        },
+        "price": "2,20 €"
+      },
+      {
+        "pt": {
+          "name": "Sumo",
+          "description": ""
+        },
+        "en": {
+          "name": "Juice",
+          "description": ""
+        },
+        "price": "2,00 €"
+      },
+      {
+        "pt": {
+          "name": "Why Not Craft Soda",
+          "description": ""
+        },
+        "en": {
+          "name": "Why Not Craft Soda",
+          "description": ""
+        },
+        "price": "2,80 €"
+      },
+      {
+        "pt": {
+          "name": "Água",
+          "description": ""
+        },
+        "en": {
+          "name": "Still water",
+          "description": ""
+        },
+        "price": "1,50 €"
+      },
+      {
+        "pt": {
+          "name": "Água com gás",
+          "description": ""
+        },
+        "en": {
+          "name": "Sparkling water",
+          "description": ""
+        },
+        "price": "1,80 €"
+      },
+      {
+        "pt": {
+          "name": "Sagres",
+          "description": ""
+        },
+        "en": {
+          "name": "Sagres beer",
+          "description": ""
+        },
+        "price": "2,50 €"
+      }
+    ],
+    "extras": []
+  }
+]

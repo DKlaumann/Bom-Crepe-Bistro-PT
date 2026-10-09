@@ -1,0 +1,17 @@
+# Arquivos do macOS
+.DS_Store
+
+# Informações confidenciais
+.env
+.env.*
+!.env.example
+
+# Dependências
+node_modules/
+
+# Arquivos temporários
+*.log
+
+# Configurações locais da Vercel
+.vercel/
+
