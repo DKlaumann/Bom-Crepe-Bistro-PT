@@ -31,7 +31,7 @@ Apenas as galettes têm massa fina de trigo-sarraceno. Os crepes doces têm mass
 Editar `../MENU_BILINGUE.md`, a fonte de conteúdo. Depois, na raiz do projeto:
 
 ```sh
-/Users/sasha/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 tools/preparar_site.py --menu-only
+python3 tools/preparar_site.py --menu-only
 ```
 
 O comando atualiza o HTML entre os marcadores `MENU:START` e `MENU:END` e o inventário JSON. O menu não depende de pedidos à rede ou de JavaScript para existir: sem JavaScript, as cinco categorias ficam visíveis. Os extras expandem-se com controlos HTML nativos.
